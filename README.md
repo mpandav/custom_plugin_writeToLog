@@ -1,1 +1,1 @@
-# custom_plugin_writeToLog
+# Write To Log - Custom Palette
