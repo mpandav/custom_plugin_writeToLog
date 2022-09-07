@@ -23,5 +23,5 @@ In this example, we will be creating a new palette named WriteToLog having an ac
 
 
 ## Reference
-For more details about - **Why PDK? What Does It Take? How To Use It?** check this **[blog](https://walkthrough.so/pblc/mjFqxnepAGZj/how-to-create-custom-tibco-bwce-plugin-using-plug-in-development-kit?usp=sharing)** out!
+For more details about - **Why PDK? What Does It Take? How To Use It?** and more details check this **[blog](https://walkthrough.so/pblc/mjFqxnepAGZj/how-to-create-custom-tibco-bwce-plugin-using-plug-in-development-kit?usp=sharing)** out!
   
